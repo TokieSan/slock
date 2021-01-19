@@ -4,8 +4,8 @@ static const char *group = "elt0khy";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "#111111",     /* after initialization */
-	[INPUT] =  "#444444",   /* during input */
-	[FAILED] = "#CC3333",   /* wrong password */
+	[INPUT] =  "#222222",   /* during input */
+	[FAILED] = "#343434",   /* wrong password */
 };
 
 /* treat a cleared input like a wrong password (color) */
@@ -21,4 +21,4 @@ static const char * message = "Tokhy's Hub";
 static const char * text_color = "#24D1AC";
 
 /* text size (must be a valid size) */
-static const char * font_name = "6x10";
+static const char * font_name = "6x13";
