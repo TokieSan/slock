@@ -1,6 +1,6 @@
 /* user and group to drop privileges to */
 static const char *user  = "elt0khy";
-static const char *group = "eltokhy";
+static const char *group = "elt0khy";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "#111111",     /* after initialization */
@@ -21,4 +21,4 @@ static const char * message = "Tokhy's Hub";
 static const char * text_color = "#24D1AC";
 
 /* text size (must be a valid size) */
-static const char * font_name = "14x10";
+static const char * font_name = "6x10";
