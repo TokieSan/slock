@@ -1,6 +1,10 @@
 slock - simple screen locker
 ============================
+This is my Fork for slock, with my configurations and some patches applied.
+
 simple screen locker utility for X.
+
+Below me, the default guide for building/ running slock.
 
 
 Requirements
